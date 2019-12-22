@@ -14,6 +14,7 @@ kedro install
 ```
 
 or
-"""
+
+```
 pip install -r src/requirements.txt
-"""
+```

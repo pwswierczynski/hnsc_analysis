@@ -8,9 +8,4 @@ Bioinformatical analysis of head and neck squamous cell carcinoma based on Pan A
 Dependencies are declared in `src/requirements.txt'
 
 To install them, run:
-
-or
-
-```
-pip install -r src/requirements.txt
-```
+	pip install -r src/requirements.txt

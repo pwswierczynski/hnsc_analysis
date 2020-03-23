@@ -9,10 +9,6 @@ Dependencies are declared in `src/requirements.txt'
 
 To install them, run:
 
-```
-kedro install
-```
-
 or
 
 ```

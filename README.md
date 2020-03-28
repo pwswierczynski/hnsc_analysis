@@ -5,7 +5,7 @@ Bioinformatical analysis of head and neck squamous cell carcinoma based on [Pan 
 
 ## Installing dependencies
 
-Dependencies are declared in __src/requirements.txt__
+Dependencies are declared in __requirements.txt__
 
 To install them, run:
 ```

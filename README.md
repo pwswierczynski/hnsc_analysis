@@ -9,5 +9,5 @@ Dependencies are declared in __requirements.txt__
 
 To install them, run:
 ```
-pip install -r src/requirements.txt
+pip install -r requirements.txt
 ```
